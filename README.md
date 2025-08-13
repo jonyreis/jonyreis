@@ -1,7 +1,6 @@
 # Jony Reis
 
-CTO | Notus Labs 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+CTO | [**Notus Labs**](https://notus.team/)
 
 Antes de entrar na área de TI, fui recepcionista de hotel, tenente do exército e motorista de aplicativo. Em 2019, decidi que queria ser programador e vendi meu carro para focar 100% nos estudos. Meses depois, conquistei minha primeira vaga e desde então, venho desenvolvendo soluções que tornam o acesso ao mundo cripto mais simples.
 
@@ -20,7 +19,7 @@ Antes de entrar na área de TI, fui recepcionista de hotel, tenente do exército
 
 - [**Chainless**](https://chainless.finance/) — Produto da Notus Labs no qual também estive envolvido no desenvolvimento. Wallet autocustodial que combina a segurança da blockchain com a simplicidade de um app de fintech. Com Pix integrado, permite comprar, vender e trocar cripto sem seed phrase, taxas de gas ou troca de rede.
 
-- [**Notus API**](https://notus.team/) — Como CTO da Notus Labs, atualmente lidero o desenvolvimento dessa infraestrutura Web3 que permite criar apps financeiros onchain com UX sem fricção. Oferece wallets embutidas, transações gasless, ramps fiat↔cripto, integrações DeFi e analytics em uma única API.
+- [**Notus API**](https://notus.team/) — Atualmente lidero o desenvolvimento dessa infraestrutura Web3 que permite criar apps financeiros onchain com UX sem fricção. Oferece wallets embutidas, transações gasless, ramps fiat↔cripto, integrações DeFi e analytics em uma única API.
 
 ### Fora do código
 
