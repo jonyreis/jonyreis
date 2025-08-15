@@ -15,7 +15,7 @@ Antes de entrar na área de TI, fui recepcionista de hotel, tenente do exército
 
 - [**Heimdall**](https://heimdall-frontend.vercel.app/) — Minha primeira experiência como desenvolvedor. Participei da criação de uma plataforma de análise social para o mercado cripto, que agregava dados de redes sociais e mercado para gerar insights sobre ativos digitais.
 
-- [**Kassandra.finance**](https://www.kassandra.finance/) ([GitHub](https://github.com/KassandraFinance/kassandra-frontend)) — Minha porta de entrada no Web3. Ajudei a construir uma plataforma DeFi para gestão de portfólios tokenizados, conectando investidores e gestores em um ecossistema totalmente onchain.
+- [**Kassandra DAO - Site**](https://www.kassandra.finance/) | [**Kassandra DAO - GitHub**](https://github.com/KassandraFinance/kassandra-frontend) — Minha porta de entrada no Web3. Ajudei a construir uma plataforma DeFi para gestão de portfólios tokenizados, conectando investidores e gestores em um ecossistema totalmente onchain.
 
 - [**Chainless**](https://chainless.finance/) — Produto da Notus Labs no qual também estive envolvido no desenvolvimento. Wallet autocustodial que combina a segurança da blockchain com a simplicidade de um app de fintech. Com Pix integrado, permite comprar, vender e trocar cripto sem seed phrase, taxas de gas ou troca de rede.
 
