@@ -2,7 +2,7 @@
 
 CTO | [**Notus Labs**](https://notus.team/)
 
-Antes de entrar na área de TI, fui recepcionista de hotel, tenente do exército e motorista de aplicativo. Em 2019, decidi que queria ser programador e vendi meu carro para focar 100% nos estudos. Meses depois, conquistei minha primeira vaga e desde então, venho desenvolvendo soluções que tornam o acesso ao mundo cripto mais simples.
+Antes de entrar na área de TI, fui recepcionista de hotel, tenente do exército, motorista de aplicativo e design gráfico. Em 2019, decidi que queria ser programador e vendi meu carro para focar 100% nos estudos. Meses depois, conquistei minha primeira vaga e desde então, venho desenvolvendo soluções que tornam o acesso ao mundo cripto mais simples.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jonyreis/)
@@ -13,13 +13,13 @@ Antes de entrar na área de TI, fui recepcionista de hotel, tenente do exército
 
 ### Projetos relevantes
 
-- [**Heimdall**](https://heimdall-frontend.vercel.app/) — Minha primeira experiência como desenvolvedor. Participei da criação de uma plataforma de análise social para o mercado cripto, que agregava dados de redes sociais e mercado para gerar insights sobre ativos digitais.
+[**Heimdall**](https://heimdall-frontend.vercel.app/) — Plataforma de análise social para o mercado cripto, que agregava dados de redes sociais e mercado para gerar insights sobre ativos digitais, onde atuei como desenvolvedor frontend utilizando React.js, Styled Components e Recharts.
 
-- [**Kassandra DAO - Site**](https://www.kassandra.finance/) | [**Kassandra DAO - GitHub**](https://github.com/KassandraFinance/kassandra-frontend) — Minha porta de entrada no Web3. Ajudei a construir uma plataforma DeFi para gestão de portfólios tokenizados, conectando investidores e gestores em um ecossistema totalmente onchain.
+[**Kassandra DAO - Site**](https://www.kassandra.finance/) | [**Kassandra DAO - GitHub**](https://github.com/KassandraFinance/kassandra-frontend) — Plataforma DeFi para gestão de portfólios tokenizados, conectando investidores e gestores em um ecossistema totalmente onchain, onde atuei como desenvolvedor frontend responsável pela integração do frontend com os smart contracts, implementando suporte a carteiras e transações onchain com Next.js, Web3.js, Web3Onboard, WalletConnect e MetaMask.
 
-- [**Chainless**](https://chainless.finance/) — Produto da Notus Labs no qual também estive envolvido no desenvolvimento. Wallet autocustodial que combina a segurança da blockchain com a simplicidade de um app de fintech. Com Pix integrado, permite comprar, vender e trocar cripto sem seed phrase, taxas de gas ou troca de rede.
+[**Chainless**](https://chainless.finance/) — Wallet autocustodial que combina a segurança da blockchain com a simplicidade de um app de fintech, permitindo comprar, vender e trocar cripto com Pix integrado e sem seed phrase, taxas de gas ou troca de rede, onde atuei principalmente como Product Owner e contribuí no desenvolvimento em React Native.
 
-- [**Notus API**](https://notus.team/) — Atualmente lidero o desenvolvimento dessa infraestrutura Web3 que permite criar apps financeiros onchain com UX sem fricção. Oferece wallets embutidas, transações gasless, ramps fiat↔cripto, integrações DeFi e analytics em uma única API.
+[**Notus API**](https://notus.team/) — Infraestrutura Web3 que abstrai a complexidade do blockchain e permite criar apps financeiros onchain com UX sem fricção, oferecendo wallets embutidas, transações gasless, ramps fiat↔cripto, integrações DeFi e analytics em uma única API, onde atualmente lidero como CTO o desenvolvimento e a evolução do produto.
 
 ### Fora do código
 
